@@ -49,7 +49,7 @@ Our vision is to revolutionize how cinephiles and casual viewers track their ent
 ## Contract Details
 
 - **Contract Address (Testnet):** CCTKC2FF3JNTAXYDVI7ZHYMLGYJHT6QTDPVJGH3AXVXZLQVW5O2X3RT6
-*(Don't forget to replace this placeholder with your actual deployed Contract ID)*
+
 
 ## Future Scope
 
